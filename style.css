@@ -1,0 +1,37 @@
+form {
+	display: block;
+	background: #5B3C67;
+	padding: 50px;
+	
+	color: white;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+form input {
+	text-align: center;
+	padding: 10px;
+	margin-bottom: 20px;
+	margin-left: 40%;
+	width: 23%;
+	height: 15px;
+	border: 2px solid #ff8c00;
+    border-radius: 10px;
+}
+
+.button {
+	width: 24.5%;
+	font-size: 14pt;
+	color: white;
+	background: #7F113E;
+	height: 55px;
+	padding: 10px;
+	border: 2px solid #F5C4AB;
+    border-radius: 10px;
+}
+
+.button:hover {
+	border: 3px solid #7F113E;
+    background-color: #6a437a;;
+    color: white;
+}
